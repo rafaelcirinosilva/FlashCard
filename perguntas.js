@@ -1,9 +1,8 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    . Qual é o maior torneio de seleções de futebol?
+    O maior torneio de seleções é a Copa do Mundo da FIFA, realizada a cada quatro anos.
 )
-
 criaCartao(
     'Geografia',
     'Qual a capital da França?',
