@@ -22,30 +22,30 @@ criaCartao(
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é a diferença entre cartão amarelo e cartão vermelho?',
+    'O cartão amarelo é um aviso para o jogador, enquanto o cartão vermelho resulta na expulsão imediata do jogador do jogo.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quantos jogadores formam uma equipe de futebol em campo?',
+    'Uma equipe de futebol é composta por 11 jogadores em campo.'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é um hat-trick no futebol?',
+    'Um hat-trick é quando um jogador marca três gols em uma única partida.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual é o principal campeonato de clubes na Europa?',
+    'O principal campeonato de clubes na Europa é a Liga dos Campeões da UEFA.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quem é considerado um dos melhores jogadores de futebol de todos os tempos?',
+    'Pelé e Diego Maradona são frequentemente mencionados como dois dos melhores jogadores da história do futebol.'
 )
