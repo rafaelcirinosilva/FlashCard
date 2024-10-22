@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    . Qual é o maior torneio de seleções de futebol?
-    O maior torneio de seleções é a Copa do Mundo da FIFA, realizada a cada quatro anos.
+    'Qual é o maior torneio de seleções de futebol?',
+    'O maior torneio de seleções é a Copa do Mundo da FIFA, realizada a cada quatro anos.'
 )
 criaCartao(
     'Geografia',
