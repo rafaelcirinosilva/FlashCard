@@ -4,7 +4,7 @@ criaCartao(
     'O maior torneio de seleções é a Copa do Mundo da FIFA, realizada a cada quatro anos.'
 )
 criaCartao(
-    'Geografia',
+    'Programação',
     'Qual país tem mais títulos da Copa do Mundo?',
     'O Brasil é o país com mais títulos, totalizando cinco conquistas.'
 )
@@ -16,7 +16,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Programação',
     'Quem é o maior artilheiro da história da Liga dos Campeões da UEFA?',
     'Cristiano Ronaldo é o maior artilheiro da história da Liga dos Campeões, com mais de 130 gols.'
 )
@@ -27,7 +27,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
+    'Programação',
     'Quantos jogadores formam uma equipe de futebol em campo?',
     'Uma equipe de futebol é composta por 11 jogadores em campo.'
 )
@@ -39,13 +39,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Programação',
     'Qual é o principal campeonato de clubes na Europa?',
     'O principal campeonato de clubes na Europa é a Liga dos Campeões da UEFA.'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Programação',
     'Quem é considerado um dos melhores jogadores de futebol de todos os tempos?',
     'Pelé e Diego Maradona são frequentemente mencionados como dois dos melhores jogadores da história do futebol.'
 )
